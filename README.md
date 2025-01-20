@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sonu
 - 👀 I’m interested in Drawings.
-- 🌱 I’m currently learning ... Python, Java
+- 🌱 I’m currently learning ... Python, Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
